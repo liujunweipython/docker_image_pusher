@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nginx:1.24.0
-redis
+#redis
+nginx:alpine3.19
