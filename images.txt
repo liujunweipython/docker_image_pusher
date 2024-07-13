@@ -14,5 +14,6 @@ redis:5.0.11
 #mysql:8.0.37
 #apache/rocketmq:5.0.0
 #rocketmq-dashboard:1.0.0
-apacherocketmq/rocketmq-dashboard:1.0.0
-apacherocketmq/rocketmq-dashboard:latest
+#apacherocketmq/rocketmq-dashboard:1.0.0
+#apacherocketmq/rocketmq-dashboard:latest
+bitnami/etcd:3.5.14
