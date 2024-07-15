@@ -16,4 +16,5 @@ redis:5.0.11
 #rocketmq-dashboard:1.0.0
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #apacherocketmq/rocketmq-dashboard:latest
-bitnami/etcd:3.5.14
+#bitnami/etcd:3.5.14
+bitnami/minio:latest
