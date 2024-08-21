@@ -20,3 +20,4 @@ redis:5.0.11
 #minio/minio:RELEASE.2021-06-17T00-10-46Z
 1panel/maxkb:latest
 ollama/ollama:0.3.1
+busybox:latest
