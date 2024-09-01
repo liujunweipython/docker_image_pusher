@@ -21,3 +21,4 @@ redis:5.0.11
 #1panel/maxkb:latest
 #ollama/ollama:0.3.1
 #busybox:latest
+ansilh/debug-tools:latest
