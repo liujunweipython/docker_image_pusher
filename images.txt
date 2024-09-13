@@ -22,4 +22,5 @@ redis:5.0.11
 #ollama/ollama:0.3.1
 #busybox:latest
 #ansilh/debug-tools:latest
-busybox:latest
+#busybox:latest
+bitnami/mongodb:4.4.8
