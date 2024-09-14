@@ -23,4 +23,5 @@ redis:5.0.11
 #busybox:latest
 #ansilh/debug-tools:latest
 #busybox:latest
-bitnami/mongodb:4.4.8
+#bitnami/mongodb:4.4.8
+grafana/grafana:11.2.0
