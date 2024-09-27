@@ -30,5 +30,5 @@
 #longhornio/csi-attacher:v3.2.1
 #rook/ceph:v1.12.11
 #alpine:3.8
-wordpress:4.6.1-apache
+
 
