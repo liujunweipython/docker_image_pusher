@@ -30,4 +30,5 @@
 #longhornio/csi-attacher:v3.2.1
 #rook/ceph:v1.12.11
 #alpine:3.8
-bitnami/kafka:3.3.2
+wordpress:4.6.1-apache
+
