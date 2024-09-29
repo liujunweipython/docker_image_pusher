@@ -29,6 +29,7 @@
 #longhornio/csi-resizer:v1.2.0
 #longhornio/csi-attacher:v3.2.1
 #rook/ceph:v1.12.11
-wordpress:4.6.1-apache
+#wordpress:4.6.1-apache
+tongduncloud/td-redis-operator:latest
 
 
