@@ -30,6 +30,7 @@
 #longhornio/csi-attacher:v3.2.1
 #rook/ceph:v1.12.11
 #wordpress:4.6.1-apache
-tongduncloud/td-redis-operator:latest
-
+#tongduncloud/td-redis-operator:latest
+tongduncloud/redis-exporter:1.0
+tongduncloud/predixy:1.0
 
