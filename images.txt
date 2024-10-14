@@ -13,7 +13,6 @@
 #mysql:5.6.51
 #mysql:8.0.37
 #apache/rocketmq:5.0.0
-#rocketmq-dashboard:1.0.0
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #apacherocketmq/rocketmq-dashboard:latest
 #bitnami/etcd:3.5.14
@@ -31,6 +30,7 @@
 #rook/ceph:v1.12.11
 #wordpress:4.6.1-apache
 #tongduncloud/td-redis-operator:latest
-tongduncloud/redis-exporter:1.0
-tongduncloud/predixy:1.0
+#tongduncloud/redis-exporter:1.0
+#tongduncloud/predixy:1.0
+rabbitmq:4.0.2-management
 
