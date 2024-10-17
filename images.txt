@@ -32,5 +32,7 @@
 #tongduncloud/td-redis-operator:latest
 #tongduncloud/redis-exporter:1.0
 #tongduncloud/predixy:1.0
-rabbitmq:4.0.2-management
+tongduncloud/redis-cluster:0.2
+
+
 
