@@ -33,8 +33,9 @@
 #tongduncloud/redis-exporter:1.0
 #tongduncloud/predixy:1.0
 #tongduncloud/redis-cluster:0.2
-tongduncloud/td-redis-manager:latest
-tongduncloud/td-redis-operator-ui:latest
+#tongduncloud/td-redis-manager:latest
+#tongduncloud/td-redis-operator-ui:latest
+container-registry.oracle.com/mysql/community-cluster:9.1.0
 
 
 
