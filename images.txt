@@ -41,7 +41,8 @@
 #bitnami/os-shell:12-debian-12-r31
 #bitnami/kafka:3.8.0-debian-12-r5
 #bitnami/kubectl:1.31.1-debian-12-r2
-bitnami/jmx-exporter:1.0.1-debian-12-r6
+#bitnami/jmx-exporter:1.0.1-debian-12-r6
+bitnami/bitnami-shell:10-debian-10-r97
 
 
 
