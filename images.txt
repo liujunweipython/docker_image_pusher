@@ -43,8 +43,9 @@
 #bitnami/kubectl:1.31.1-debian-12-r2
 #bitnami/jmx-exporter:1.0.1-debian-12-r6
 #bitnami/bitnami-shell:10-debian-10-r97
-bitnami/kafka-exporter:1.3.1-debian-10-r14
-bitnami/jmx-exporter:0.15.0-debian-10-r121
+#bitnami/kafka-exporter:1.3.1-debian-10-r14
+#bitnami/jmx-exporter:0.15.0-debian-10-r121
+logstash:7.10.1
 
 
 
