@@ -46,10 +46,12 @@
 #bitnami/kafka-exporter:1.3.1-debian-10-r14
 #bitnami/jmx-exporter:0.15.0-debian-10-r121
 #logstash:7.10.1
-grafana/loki:2.6.1
-grafana/promtail:2.7.2
-grafana/grafana:8.3.5
-
+#grafana/loki:2.6.1
+#grafana/promtail:2.7.2
+#grafana/grafana:8.3.5
+quay.io/prometheus/alertmanager:v0.27.0
+quay.io/prometheus/prometheus:v2.54.1
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
 
 
 
