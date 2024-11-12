@@ -49,9 +49,10 @@
 #grafana/loki:2.6.1
 #grafana/promtail:2.7.2
 #grafana/grafana:8.3.5
-quay.io/prometheus/alertmanager:v0.27.0
-quay.io/prometheus/prometheus:v2.54.1
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+#quay.io/prometheus/alertmanager:v0.27.0
+#quay.io/prometheus/prometheus:v2.54.1
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 
 
 
