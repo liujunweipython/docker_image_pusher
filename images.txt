@@ -56,7 +56,8 @@
 #bitnami/mysqld-exporter:latest
 #bitnami/mysqld-exporter:0.14.0
 #prom/mysqld-exporter:v0.14.0
-prom/mysqld-exporter:latest
+#prom/mysqld-exporter:latest
+centos/tools:latest
 
 
 
