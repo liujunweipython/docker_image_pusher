@@ -58,9 +58,9 @@
 #prom/mysqld-exporter:v0.14.0
 #prom/mysqld-exporter:latest
 #centos/tools:latest
-registry.k8s.io/ingress-nginx/controller:v1.10.5
+#registry.k8s.io/ingress-nginx/controller:v1.10.5
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
+registry.k8s.io/ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
-
-
 
 
