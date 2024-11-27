@@ -57,8 +57,9 @@
 #bitnami/mysqld-exporter:0.14.0
 #prom/mysqld-exporter:v0.14.0
 #prom/mysqld-exporter:latest
-centos/tools:latest
-
+#centos/tools:latest
+registry.k8s.io/ingress-nginx/controller:v1.10.5
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
 
 
 
