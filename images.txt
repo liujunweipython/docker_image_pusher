@@ -62,4 +62,5 @@
 #registry.k8s.io/ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
 #registry.k8s.io/defaultbackend-amd64:1.5
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
-quay.io/timonwong/nsq-exporter
+quay.io/timonwong/nsq-exporter:latest
+timonwong/nsq-exporter:v3.0.0
