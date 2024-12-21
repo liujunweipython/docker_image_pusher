@@ -64,4 +64,5 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
 #quay.io/timonwong/nsq-exporter:latest
 #timonwong/nsq-exporter:v3.0.0
-jaredpiedt/nsq-exporter:latest
+#jaredpiedt/nsq-exporter:latest
+bitnami/jenkins:2.303.3-debian-10-r29
