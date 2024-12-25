@@ -70,4 +70,5 @@
 #registry.cn-beijing.aliyuncs.com/citools/jnlp:alpine
 #registry.cn-beijing.aliyuncs.com/citools/maven:3.5.3
 #registry.cn-beijing.aliyuncs.com/citools/kubectl:self-1.17
-docker:25.0.5-git
+#docker:25.0.5-git
+jenkins/jnlp-agent-docker
