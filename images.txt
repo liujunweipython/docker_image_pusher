@@ -67,6 +67,7 @@
 #jaredpiedt/nsq-exporter:latest
 #bitnami/jenkins:2.303.3-debian-10-r29
 #bitnami/jenkins:2.479.2-debian-12-r0
-registry.cn-beijing.aliyuncs.com/citools/jnlp:alpine
-registry.cn-beijing.aliyuncs.com/citools/maven:3.5.3
-registry.cn-beijing.aliyuncs.com/citools/kubectl:self-1.17
+#registry.cn-beijing.aliyuncs.com/citools/jnlp:alpine
+#registry.cn-beijing.aliyuncs.com/citools/maven:3.5.3
+#registry.cn-beijing.aliyuncs.com/citools/kubectl:self-1.17
+docker:25.0.5-git
