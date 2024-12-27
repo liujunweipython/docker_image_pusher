@@ -71,4 +71,9 @@
 #registry.cn-beijing.aliyuncs.com/citools/maven:3.5.3
 #registry.cn-beijing.aliyuncs.com/citools/kubectl:self-1.17
 #docker:25.0.5-git
-jenkins/jnlp-agent-docker
+#jenkins/jnlp-agent-docker
+bitnami/mysql:8.4.3-debian-12-r0
+bitnami/os-shell:12-debian-12-r31
+bitnami/mysqld-exporter:0.15.1-debian-12-r35
+
+
