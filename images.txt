@@ -79,6 +79,7 @@
 #ygqygq2/mysql-exec-sql:latest
 #nacos/nacos-server:v2.4.0
 #nacos/nacos-server:v2.1.0
-ollama/ollama
+nacos/nacos-server:v2.2.0
+#ollama/ollama
 
 
