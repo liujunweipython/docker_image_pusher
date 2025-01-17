@@ -82,5 +82,5 @@
 #nacos/nacos-server:v2.2.0
 #ollama/ollama
 #bladex/sentinel-dashboard
-bladex/sentinel-dashboard:1.8.8
-
+#bladex/sentinel-dashboard:1.8.8
+openjdk:17-jdk-alpine
