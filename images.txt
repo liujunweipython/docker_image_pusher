@@ -83,4 +83,7 @@
 #ollama/ollama
 #bladex/sentinel-dashboard
 #bladex/sentinel-dashboard:1.8.8
-openjdk:17-jdk-alpine
+#openjdk:17-jdk-alpine
+tongduncloud/redis-standby:1.0
+tongduncloud/sentinel-standby:latest
+
