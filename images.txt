@@ -88,4 +88,6 @@
 #tongduncloud/sentinel-standby:latest
 #nacos/nacos-operator:latest
 #nacos/nacos-server:v2.0.3
-minio/minio:latest
+#minio/minio:latest
+bitnami/minio:latest
+
