@@ -89,5 +89,6 @@
 #nacos/nacos-operator:latest
 #nacos/nacos-server:v2.0.3
 minio/minio:latest
-bitnami/minio:latest
+#bitnami/minio:latest
+istio/pilot:1.24.3
 
