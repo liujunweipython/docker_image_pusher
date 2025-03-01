@@ -90,5 +90,6 @@
 #nacos/nacos-server:v2.0.3
 minio/minio:latest
 #bitnami/minio:latest
-istio/pilot:1.24.3
+#istio/pilot:1.24.3
+istio/proxyv2:1.24.3
 
