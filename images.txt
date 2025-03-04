@@ -92,5 +92,5 @@ minio/minio:latest
 #bitnami/minio:latest
 #istio/pilot:1.24.3
 #istio/proxyv2:1.24.3
-quay.io/kiali/kiali:v2.0
-
+#quay.io/kiali/kiali:v2.0
+jaegertracing/all-in-one:1.58
