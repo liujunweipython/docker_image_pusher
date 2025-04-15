@@ -105,4 +105,5 @@ minio/minio:latest
 #istio/examples-bookinfo-productpage-v1:1.20.2
 #node:lts
 #centos:7
-node:16.20
+#node:16.20
+openjdk:12-ea-12-jdk-alpine
