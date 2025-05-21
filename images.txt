@@ -110,4 +110,5 @@
 #bitnami/nginx:1.27.5-debian-12-r0
 #registry.k8s.io/ingress-nginx/controller:v1.12.2
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.3
-riscv64/debian:sid-slim
+#riscv64/debian:sid-slim
+infiniflow/ragflow:v0.18.0
