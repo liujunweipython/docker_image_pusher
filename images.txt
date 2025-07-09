@@ -143,4 +143,5 @@
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #container-registry.oracle.com/database/free:latest
 #lmsysorg/sglang:v0.4.7-cu124
-python:3.13-slim-bullseye
+#python:3.13-slim-bullseye
+node:18.20.8-alpine
