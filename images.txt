@@ -144,4 +144,5 @@
 #container-registry.oracle.com/database/free:latest
 #lmsysorg/sglang:v0.4.7-cu124
 #python:3.13-slim-bullseye
-node:18.20.8-alpine
+#node:18.20.8-alpine
+openjdk:8u201-jdk-alpine
