@@ -151,4 +151,5 @@
 #bitnami/nginx:1.29.0-debian-12-r4
 #redis:5.0.14
 #istio/operator:1.23.0
-mysql:8.0.39-debian
+#mysql:8.0.39-debian
+oliver006/redis_exporter:latest
