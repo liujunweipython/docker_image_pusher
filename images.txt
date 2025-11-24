@@ -153,4 +153,5 @@
 #istio/operator:1.23.0
 #mysql:8.0.39-debian
 #oliver006/redis_exporter:latest
-rabbitmq:3-management
+#rabbitmq:3-management
+registry.k8s.io/ingress-nginx/controller:v1.7.1
