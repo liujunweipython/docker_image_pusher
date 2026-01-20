@@ -177,4 +177,4 @@
 #grafana/grafana:6.4.4
 #prom/prometheus:v2.13.1
 #consul:1.6.1
-bitnami/jenkins:2.504.3-debian-12-r1
+bitnami/jenkins:latest
