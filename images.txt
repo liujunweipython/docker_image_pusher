@@ -178,4 +178,5 @@
 #prom/prometheus:v2.13.1
 #consul:1.6.1
 #bitnami/jenkins:latest
-bitnami/kubectl:latest
+#bitnami/kubectl:latest
+bitnami/kaniko:latest
