@@ -179,4 +179,5 @@
 #consul:1.6.1
 #bitnami/jenkins:latest
 #bitnami/kubectl:latest
-bitnami/kaniko:latest
+#bitnami/kaniko:latest
+golang:1.26-alpine
