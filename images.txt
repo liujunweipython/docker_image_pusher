@@ -180,4 +180,5 @@
 #bitnami/jenkins:latest
 #bitnami/kubectl:latest
 #bitnami/kaniko:latest
-golang:1.26-alpine
+#golang:1.26-alpine
+golang:1.21.4-alpine3.17
