@@ -183,4 +183,5 @@
 #golang:1.26-alpine
 #golang:1.21.4-alpine3.17
 #golang:latest
-scratch
+#scratch
+bitnamilegacy/zookeeper:3.8.0-debian-11-r30
