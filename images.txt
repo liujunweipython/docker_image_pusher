@@ -185,5 +185,7 @@
 #golang:latest
 #scratch
 #bitnamilegacy/zookeeper:3.8.0-debian-11-r30
-bitnamilegacy/jenkins:2.504.3-debian-12-r1
+#bitnamilegacy/jenkins:2.504.3-debian-12-r1
+alpine/helm:4.0.4
+alpine/helm:latest
 
