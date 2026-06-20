@@ -186,6 +186,6 @@
 #scratch
 #bitnamilegacy/zookeeper:3.8.0-debian-11-r30
 #bitnamilegacy/jenkins:2.504.3-debian-12-r1
-alpine/helm:4.0.4
-alpine/helm:latest
-
+#alpine/helm:4.0.4
+#alpine/helm:latest
+ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v1.2.1@sha256:ba1ebd202e7df5b07392214152fc236c41a04075e9fe497d70239e7085c4f7ac
