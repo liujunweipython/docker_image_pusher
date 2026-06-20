@@ -188,4 +188,7 @@
 #bitnamilegacy/jenkins:2.504.3-debian-12-r1
 #alpine/helm:4.0.4
 #alpine/helm:latest
-ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v1.2.1@sha256:ba1ebd202e7df5b07392214152fc236c41a04075e9fe497d70239e7085c4f7ac
+#ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v1.2.1@sha256:ba1ebd202e7df5b07392214152fc236c41a04075e9fe497d70239e7085c4f7ac
+ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v1.2.1@sha256:57cc154ec47d71393688d3e3e610ffe6e100bec0ef253a8b92e2cf8132e28f97
+ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v1.2.1@sha256:3bdbf2e8e45805752ebba7867245cdda02172348a00fd350eb73b591c5fc372d
+ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v1.2.1@sha256:ab4160707469d33d2c8ae9751390031aa7181a77b77d49ff2debaba5e7dbe838
