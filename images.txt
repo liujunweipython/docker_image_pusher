@@ -202,7 +202,8 @@
 #redis:7.4.1
 #node:14.15.5
 #eclipse-temurin:17.0.12_7-jdk-alpine
-prom/mysqld-exporter:v0.17.2
+#prom/mysqld-exporter:v0.17.2
+oliver006/redis_exporter:v1.86.0
 
 
 
