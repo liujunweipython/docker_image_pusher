@@ -203,7 +203,8 @@
 #node:14.15.5
 #eclipse-temurin:17.0.12_7-jdk-alpine
 #prom/mysqld-exporter:v0.17.2
-oliver006/redis_exporter:v1.86.0
+#oliver006/redis_exporter:v1.86.0
+quay.io/brancz/prometheus-example-app:v0.3.0
 
 
 
