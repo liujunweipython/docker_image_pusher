@@ -205,7 +205,8 @@
 #prom/mysqld-exporter:v0.17.2
 #oliver006/redis_exporter:v1.86.0
 #quay.io/brancz/prometheus-example-app:v0.3.0
-timonwong/prometheus-webhook-dingtalk:latest
+#timonwong/prometheus-webhook-dingtalk:latest
+docker.elastic.co/eck/eck-operator:3.5.0
 
 
 
