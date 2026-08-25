@@ -207,7 +207,8 @@
 #quay.io/brancz/prometheus-example-app:v0.3.0
 #timonwong/prometheus-webhook-dingtalk:latest
 #docker.elastic.co/eck/eck-operator:3.5.0
-docker.elastic.co/elasticsearch/elasticsearch:9.5.2
+#docker.elastic.co/elasticsearch/elasticsearch:9.5.2
+docker.elastic.co/kibana/kibana:9.5.2
 
 
 
