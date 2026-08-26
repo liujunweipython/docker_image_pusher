@@ -208,7 +208,9 @@
 #timonwong/prometheus-webhook-dingtalk:latest
 #docker.elastic.co/eck/eck-operator:3.5.0
 #docker.elastic.co/elasticsearch/elasticsearch:9.5.2
-docker.elastic.co/kibana/kibana:9.5.2
+#docker.elastic.co/kibana/kibana:9.5.2
+bitnamilegacy/zookeeper:3.9.3-debian-12-r8
+bitnamilegacy/os-shell:12-debian-12-r39
 
 
 
