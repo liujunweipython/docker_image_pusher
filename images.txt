@@ -211,9 +211,10 @@
 #docker.elastic.co/kibana/kibana:9.5.2
 #bitnamilegacy/zookeeper:3.9.3-debian-12-r8
 #bitnamilegacy/os-shell:12-debian-12-r39
-bitnamilegacy/kafka:3.9.0-debian-12-r12
-bitnamilegacy/kubectl:1.32.2-debian-12-r3
-bitnamilegacy/jmx-exporter:1.1.0-debian-12-r7
-
+#bitnamilegacy/kafka:3.9.0-debian-12-r12
+#bitnamilegacy/kubectl:1.32.2-debian-12-r3
+#bitnamilegacy/jmx-exporter:1.1.0-debian-12-r7
+docker.elastic.co/logstash/logstash:9.5.2
+docker.elastic.co/beats/filebeat:9.5.2
 
 
