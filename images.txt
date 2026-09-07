@@ -216,5 +216,7 @@
 #bitnamilegacy/jmx-exporter:1.1.0-debian-12-r7
 #docker.elastic.co/logstash/logstash:9.5.2
 #docker.elastic.co/beats/filebeat:9.5.2
-bitnamilegacy/minio:2025.7.23
+#bitnamilegacy/minio:2025.7.23
+velero/velero:v1.16.2
+velero/velero-plugin-for-aws:v1.12.2
 
