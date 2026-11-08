@@ -223,6 +223,9 @@
 #ghcr.io/kedacore/keda-admission-webhooks:2.20.2
 #ghcr.io/kedacore/keda-metrics-apiserver:2.20.2
 #curlimages/curl:latest
-fortio/fortio:latest
-fortio/fortio:latest_release
+#fortio/fortio:latest
+#fortio/fortio:latest_release
+nacos/nacos-server:v3.3.0
+nacos/nacos-peer-finder-plugin:latest
+
 
