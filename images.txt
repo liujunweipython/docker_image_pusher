@@ -226,6 +226,5 @@
 #fortio/fortio:latest
 #fortio/fortio:latest_release
 nacos/nacos-server:v3.3.0
-nacos/nacos-peer-finder-plugin:latest
 
 
