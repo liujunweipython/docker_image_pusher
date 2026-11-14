@@ -221,6 +221,8 @@
 #curlimages/curl:latest
 #fortio/fortio:latest
 #fortio/fortio:latest_release
-nacos/nacos-server:v3.3.0
+#nacos/nacos-server:v3.3.0
+istio/pilot:1.31.4
+istio/proxyv2:1.31.4
 
 
